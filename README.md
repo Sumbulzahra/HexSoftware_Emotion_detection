@@ -28,5 +28,5 @@ This project focuses on providing hands-on experience in Artificial Intelligence
 ---
 
 ## 👥 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
+* **LinkedIn:** https://www.linkedin.com/posts/miss-s-zahra_github-sumbulzahrahexsoftwareemotiondetection-share-7468659944674828288-aY0Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNeYcIBTq8_zKD1l9colfmUpGqHq25PqdY
 * **Hex Softwares:** Developed as part of the Hex Softwares AI Internship Program.
